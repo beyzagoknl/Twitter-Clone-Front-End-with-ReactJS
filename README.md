@@ -2,7 +2,8 @@
 
 This is Twitter Clone Front-End. You can see tweets, day and author.
 
-## 2. Image
+## 2. Image and Link
+[Twitter](https://transcendent-nasturtium-08af13.netlify.app/)
 
 ![Twitter!](/public/images/App.png)
 
